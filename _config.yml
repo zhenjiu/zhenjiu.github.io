@@ -1,3 +1,7 @@
 title: "Jacob R. Swette"
 description: "MPH-Epidemiology | Biomimicry | Integrative Health"
 theme: jekyll-theme-minimal
+
+
+
+include: ["assets/style.css"]
