@@ -2,7 +2,6 @@
   <img src="assets/IMG_0732.jpeg" width="230" style="border-radius: 8px;">
 </p>
 
-
 # Jacob R. Swette  
 MPH–Epidemiology Student | Biomimicry Researcher | Integrative Health Clinician  
 
