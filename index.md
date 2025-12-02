@@ -1,3 +1,11 @@
+<div class="navbar">
+  <a href="/">Home</a>
+  <a href="/cv.html">CV</a>
+  <a href="/research.html">Research</a>
+  <a href="/contact.html">Contact</a>
+</div>
+
+
 <p align="center">
   <img src="assets/IMG_0732.jpeg" width="230" style="border-radius: 8px;">
 </p>
