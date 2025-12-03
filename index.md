@@ -11,7 +11,7 @@
 </p>
 
 # Jacob R. Swette  
-MPH–Epidemiology Student | Biomimicry Researcher | Chinese Medicine Clinician  
+Graduate Epidemiology Student Researcher | Biomimicry-based Problem Solver | Chinese Medicine Clinician  
 
 Welcome — I study how daily and seasonal behavioral rhythms, sleep adequacy, and ecological conditions shape human health. My current work focuses on modifying pathways between adverse childhood experiences (ACEs) and chronic or recurrent pediatric pain using the National Survey of Children’s Health (2022–2023).
 
